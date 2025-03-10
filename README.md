@@ -1,5 +1,7 @@
 ## Hi there 👋  
 ##### 백엔드에 관심이 많은 학생입니다!
+
+![Image](https://github.com/user-attachments/assets/ebaa6bcd-3234-4cf7-a43b-487635fcd007)
 ---
 
 ### 🌱 **Currently Learning**  

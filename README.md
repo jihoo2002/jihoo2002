@@ -24,7 +24,7 @@
 ### 🏆 **GitHub Stats**  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jihoo2002&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihoo2002&layout=compact&theme=radical" height="180px"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jihoo2002&layout=compact&theme=radical" height="180px"/>
 </p>
 
 ---
